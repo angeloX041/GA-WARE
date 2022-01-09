@@ -1,7 +1,3 @@
--Fake file generated with Blood X
-
-
-
 -- Fixed By Cloudster
 
 game:GetService("StarterGui"):SetCore("SendNotification",{     
@@ -1083,4 +1079,3 @@ game:GetService("Lighting").FogStart = 9e9
 lp.PlayerGui.Chat.Frame.ChatChannelParentFrame.Visible = true
 
 lp.PlayerGui.Chat.Frame.ChatBarParentFrame.Position = lp.PlayerGui.Chat.Frame.ChatChannelParentFrame.Position + UDim2.new(UDim.new(), lp.PlayerGui.Chat.Frame.ChatChannelParentFrame.Size.Y)
-
