@@ -4,7 +4,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 Title = "GA$WARE",     
 
-Text = "https://discord.gg/77MfmAjEdS",
+Text = "https://discord.gg/YP2NtCUwUD",
 
 Button1 = "🔵",
 
